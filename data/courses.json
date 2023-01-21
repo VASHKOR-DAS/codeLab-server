@@ -1,0 +1,113 @@
+[
+    {
+        "_id": "63c7ad24b7d7be4d97f9c2db",
+        "index": 1,
+        "category": "free",
+        "image": "https://i.ytimg.com/vi/o1IaduQICO0/maxresdefault.jpg",
+        "courseName": "JavaScript",
+        "details": "JavaScript full course is a complete guide to JavaScript which covers in-depth knowledge about data types, variables, functions, event handling, form validation, etc using JavaScript. Topics covered in this Complete JavaScript Tutorial for Beginners are:",
+        "published": "2018-05-15T02:20:39 -06:00"
+    },
+    {
+        "_id": "63c7ad249f64e9dbb42706e4",
+        "index": 2,
+        "category": "free",
+        "image": "https://www.educative.io/v2api/collection/5404665623609344/5834681560858624/image/5531761688182784",
+        "courseName": "Next JS",
+        "details": "Next.js is touted as the next big thing in the web development world and 2022 may be a good time to learn Next.js.",
+        "published": "2017-07-07T05:38:33 -06:00"
+    },
+    {
+        "_id": "63c7ad24fc220594ff1e1eeb",
+        "index": 3,
+        "category": "free",
+        "image": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN",
+        "courseName": "React JS",
+        "details": "What else do you expect from a JavaScript library that was developed by Facebook? But seriously, if you don’t know how to build apps with React - then you’re falling behind the curve. It has quickly become the most popular JavaScript library since its release in 2011.",
+        "published": "2020-03-06T05:07:51 -06:00"
+    },
+    {
+        "_id": "63c7ad2453eb6b30db2008bf",
+        "index": 4,
+        "category": "free",
+        "image": "https://d28rtuv7aawte3.cloudfront.net/uploads/thumbnails/course_thumbnails/course_thumbnail_efanew_48.jpg",
+        "courseName": "CSS 3",
+        "details": "You will have learned to apply fundamental design elements in CSS to create a beautiful and functional websites.",
+        "published": "2015-05-11T04:38:43 -06:00"
+    },
+    {
+        "_id": "63c7ad2407adc107b5338151",
+        "index": 5,
+        "category": "free",
+        "image": "https://www.webtrainings.in/wp-content/uploads/2021/09/wordpress-training.jpg",
+        "courseName": "WordPress",
+        "details": "WordPress is the most prominent, user-friendly, and effortless way to develop a website.",
+        "published": "2017-02-03T01:42:53 -06:00"
+    },
+    {
+        "_id": "63c7ad245f296f9684e7d0fe",
+        "index": 6,
+        "category": "free",
+        "image": "https://i.ytimg.com/vi/_a5j7KoflTs/maxresdefault.jpg",
+        "courseName": "SASS",
+        "details": "In this course, you will learn the basics of Sass. We will start with a brief overview of what Sass is along with what is required to incorporate Sass into your mind",
+        "published": "2017-12-09T07:40:29 -06:00"
+    },
+    {
+        "_id": "63c7ad246a07af6e34985b44",
+        "index": 7,
+        "category": "free",
+        "image": "https://prod-discovery.edx-cdn.org/media/course/image/776db6bd-54a0-4625-ba3d-1204fb922859-1df9ac41ffdf.small.jpg",
+        "courseName": "HTML 5",
+        "details": "Learn how to build Web sites using HTML5 and basic CSS, directly from W3C, creator of the latest Web standards.",
+        "published": "2022-08-31T03:46:03 -06:00"
+    },
+    {
+        "_id": "63c7ad24f230380fd29e873f",
+        "index": 8,
+        "category": "free",
+        "image": "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
+        "courseName": "C++",
+        "details": "C++ Programming Course by Edureka is designed to meet the industry benchmarks and curated by top industry experts.",
+        "published": "2017-01-10T08:03:19 -06:00"
+    },
+    {
+        "_id": "63c7ad245850a485e5bbe18b",
+        "index": 9,
+        "category": "free",
+        "image": "https://i.ytimg.com/vi/t_ispmWmdjY/maxresdefault.jpg",
+        "courseName": "Ruby Language",
+        "details": "Learn the Ruby programming language in this full course / tutorial. The course is designed for new programmers, and will introduce common programming topics.",
+        "published": "2022-09-21T04:41:08 -06:00"
+    },
+    {
+        "_id": "63c7ad245a8425059e1acca9",
+        "index": 10,
+        "category": "paid",
+        "price":"$40",
+        "image": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/Java-Programs.jpg",
+        "courseName": "Java",
+        "details": "This comprehensive course comes with a video of 72 hours carrying all vital information that a Java developer should be aware of. ",
+        "published": "2019-04-15T07:22:58 -06:00"
+    },
+    {
+        "_id": "63c7ad244c0bc9e8f28ec30c",
+        "index": 11,
+        "category": "paid",
+        "price":"$80",
+        "image": "https://threejs-journey.com/assets/social/share-image.png",
+        "courseName": "Three JS",
+        "details": "In 70 hours of video, this course will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.",
+        "published": "2014-01-10T01:20:46 -06:00"
+    },
+    {
+        "_id": "63c7ad2490ef45ed1cb8eb04",
+        "index": 12,
+        "category": "paid",
+        "price":"$60",
+        "image": "https://www.fossmint.com/wp-content/uploads/2019/02/Udemy-Python-Learning-Courses-for-Beginners.png",
+        "courseName": "Python",
+        "details": "Python is an interpreted, general-purpose, high-level programming language with millions of users all over the world and it seems to be more popular than ever these days and if you have ever wanted to learn to program, now is a great time!",
+        "published": "2014-05-30T02:09:57 -06:00"
+    }
+]
